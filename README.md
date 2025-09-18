@@ -2,7 +2,7 @@
 
 
 
-A simple **React authentication portal** with **Login**, **Register**, and **Forgot Password** pages, built using **pure React (`.js`)** and **CSS** (no Tailwind).  
+A simple **React authentication portal** with **Login**, **Register**, and **Forgot Password** pages, built using **pure React (`.js`)** and **CSS** .  
 
 This project is perfect for learning React component structure, state management, and basic form validation.
 
@@ -85,3 +85,4 @@ Implement Remember Me and Show/Hide password functionality.
 
 
 Add unit testing with Jest and React Testing Library.
+
