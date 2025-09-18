@@ -56,7 +56,7 @@ Copy code
 1. **Clone the repository:**
 
 
-git clone https://github.com/yourusername/gdg-auth.git
+git clone https://github.com/Deepitha123/GDG.git
 cd gdg-auth
 Install dependencies:
 
@@ -85,5 +85,6 @@ Implement Remember Me and Show/Hide password functionality.
 
 
 Add unit testing with Jest and React Testing Library.
+
 
 
